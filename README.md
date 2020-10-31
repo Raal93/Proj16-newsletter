@@ -1,3 +1,3 @@
-# Proj16-newsletter
+Simple newsletter PHP.
 
-Just exercise.
+just exercise.
