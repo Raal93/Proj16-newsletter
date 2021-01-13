@@ -1,3 +1,1 @@
-Simple newsletter PHP.
-
-just exercise.
+Simple newsletter with use PHP.
